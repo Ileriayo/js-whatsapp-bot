@@ -30,7 +30,8 @@ This is a Whatsapp Chatbot that responds with the top 5 responses on google for 
     Give the search engine a name of your choice.
     Take note of the Search
 
-    See screenshot below:
+    See the screenshot below:
+    
     ![](screenshots/cse.PNG)
 
     c. create a `.env` file. Paste the keys gotten from (a) and (b) above. See the `.env.example` file as an example of it's content.
